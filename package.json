@@ -1,5 +1,5 @@
 {
-    "name": "hirebus-assess",
+    "name": "typescript-express-sqlite-starter",
     "version": "1.0.0",
     "main": "main.ts",
     "scripts": {
