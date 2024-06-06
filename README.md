@@ -5,5 +5,8 @@
 npm install
 
 ## Start Server
-npm run start
+npm start
+
+## Run Tests
+npm test
 ```
